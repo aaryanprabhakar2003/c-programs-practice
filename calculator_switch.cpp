@@ -15,7 +15,7 @@ int main(){
     cout<<"enter the second number"<<endl;
     cin>>n2;
     res=n1+n2;
-    cout<<res<<endl;
+    cout<<"the sum is:"<<res<<endl;
     break;
 
     case 2:
@@ -24,7 +24,7 @@ int main(){
     cout<<"enter the second number"<<endl;
     cin>>n2;
     res=n1-n2;
-    cout<<res<<endl;
+    cout<<"the subtraction is"<<res<<endl;
     break;
     case 3:
     cout<<"enter the first number"<<endl;
@@ -32,7 +32,7 @@ int main(){
     cout<<"enter the second number"<<endl;
     cin>>n2;
     res=n1*n2;
-    cout<<res<<endl;
+    cout<<"the multiplication is<<"res<<endl;
     break;
     case 4:
     cout<<"enter the first number"<<endl;
@@ -40,8 +40,9 @@ int main(){
     cout<<"enter the second number"<<endl;
     cin>>n2;
     res=n1/n2;
-    cout<<res<<endl;
+    cout<<"the division is"<<res<<endl;
     break;
     }
 }
+
 
