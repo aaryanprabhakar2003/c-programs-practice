@@ -32,7 +32,7 @@ int main(){
     cout<<"enter the second number"<<endl;
     cin>>n2;
     res=n1*n2;
-    cout<<"the multiplication is<<"res<<endl;
+    cout<<"the multiplication is"<<res<<endl;
     break;
     case 4:
     cout<<"enter the first number"<<endl;
